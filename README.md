@@ -19,6 +19,7 @@ Objective was to identify how technological advancements and regulatory shifts h
 
 Visualized accident frequency across decades to identify historical spikes.
 Identified clusters of high fatality incidents relative to operator and aircraft type.
+
 2.**SQL**
 
 I implemented a database workflow within the Python environment to perform aggregations and trend analysis.Quantified the "Safety Lap" by calculating improvements in survival rates by decae.Structured queries to isolate high volume operators.Used NULLIF and CASE to ensure robust calculations and categorical reporting.
