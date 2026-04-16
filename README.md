@@ -37,7 +37,7 @@ I implemented a database workflow within the Python environment to perform aggre
 🔗[View Dashboard](https://1drv.ms/x/c/573D243FBF00D5F6/IQChptCJ9xo7TrqdPMHlksquAb1B0zvP_e_N9lowCicporU?e=3IgoOJ)
 
 ## Preview📷
-[Dashboard](dashboard_aviation.png)
+[Dashboard](dashboard_excel.png)
 
 
 
